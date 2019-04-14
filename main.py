@@ -21,4 +21,3 @@ if media < 60:
         qtd60 -= 1
         media60 = total/qtd60
     print("Com doações, " + str(qtd60) + " podem participar (media: " + str(media60) + ")")
-
